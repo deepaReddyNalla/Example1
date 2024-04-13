@@ -54,6 +54,7 @@ const Task2 = () => {
           <Text style={styles.textStyles}>Google</Text>
         </View>
       </View>
+      <Text>{'Code changes'}</Text>
     </View>
   );
 };

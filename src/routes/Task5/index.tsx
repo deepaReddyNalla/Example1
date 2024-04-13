@@ -37,7 +37,9 @@ const Task5 = () => {
         <View style={styles.box3}>
           <Text style={styles.textStyle}>{'System \n  Requirement'}</Text>
         </View>
+
       </View>
+      <Text>{'Code changes'}</Text>
     </View>
   );
 };

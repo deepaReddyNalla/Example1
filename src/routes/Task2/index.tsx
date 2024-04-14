@@ -56,6 +56,7 @@ const Task2 = () => {
       </View>
       <Text>{'Code changes'}</Text>
       <Text>{'CHANGES'}</Text>
+      <Text>{'CHANGES git'}</Text>
     </View>
   );
 };
